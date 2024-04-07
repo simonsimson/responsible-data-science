@@ -1,7 +1,7 @@
 # Responsible Data Science 2024
 University course on Responsible Data Science at Hasso-Plattner-Institute (Potsdam, Germany), summer semester 2024 <br>
-Lecturer: Dr. Simon David Hirsbrunner, research team leader at International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de.   
-<br>
+Lecturer: Dr. Simon David Hirsbrunner, research team leader at International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de.    
+Institutional website of the lecturer [here.](https://uni-tuebingen.de/en/research/centers-and-institutes/international-center-for-ethics-in-the-sciences-and-humanities/team/dr-simon-david-hirsbrunner/)<br>
 <br>
 
 
